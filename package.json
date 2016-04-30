@@ -1,0 +1,13 @@
+{
+  "name": "modulus2slack_lambda",
+  "description": "lambda function to convert modulus.io webhooks for slack",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eritikass/modulus2slack.git"
+  },
+  "dependencies": {
+    "request": "2.72.0",
+    "util": "0.10.3"
+  }
+}
